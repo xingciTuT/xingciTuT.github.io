@@ -1,51 +1,196 @@
 1:"$Sreact.fragment"
-2:I[80492,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"ThemeProvider"]
-3:I[46224,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OperationProvider"]
-4:I[26015,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"ToastProvider"]
-5:I[61452,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-6:I[79674,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"MusicProvider"]
-7:I[38849,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-8:I[94798,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-9:I[63571,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-a:I[39756,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-b:I[37457,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-17:I[68027,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default",1]
+2:I[80492,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"ThemeProvider"]
+3:I[61452,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+4:I[79674,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"MusicProvider"]
+5:I[38849,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+6:I[94798,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+7:I[63571,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+8:I[39756,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+9:I[37457,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+15:I[68027,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default",1]
 :HL["/_next/static/chunks/145o.lsi86g0w.css","style"]
-:HL["/_next/static/chunks/0neevhl_o1ozu.css","style"]
+:HL["/_next/static/chunks/123doanyjnwwq.css","style"]
 :HL["/_next/static/chunks/0~ydk.tni6snc.css","style"]
-:HL["/_next/static/chunks/14ty5uakguvp9.css","style"]
-:HL["/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/06c0u92uq-y_n.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.09zddjkbdep5a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f112ed7f0b91582f-s.p.0xqqmnf1a3x8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"c":["","chatter"],"q":"","i":false,"f":[[["",{"children":["chatter",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0neevhl_o1ozu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/14ty5uakguvp9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01b0yumjn1hkn.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0slngqqn_9-_~.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","$L6",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[["$","$L7",null,{}],["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #a18cd1, #fbc2eb, #a1c4fd, #c2e9fb)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full mix-blend-overlay z-[-7]"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full mix-blend-overlay z-[-7]"}],["$","$L8",null,{}]]}],["$","$L9",null,{}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$Lc","$Ld"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$Le","$Lf","$L10"]}],"$L11"]}]]}]}]}],"$L12"]}]]}]]}],{"children":["$L13",{"children":["$L14",{},null,false,null]},null,false,"$@15"]},null,false,null],"$L16",false]],"m":"$undefined","G":["$17",["$L18","$L19","$L1a","$L1b"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"VNMOCbVtm82QJCNolYK-b"}
-1c:I[94909,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-1d:I[43173,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-1e:I[60567,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-1f:I[92471,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
-20:I[62319,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0o~-dkke2q4j6.js"],"default"]
-21:I[66357,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0o~-dkke2q4j6.js"],"default"]
-22:I[9434,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0o~-dkke2q4j6.js"],"default"]
-23:I[97367,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
-24:"$Sreact.suspense"
-27:I[97367,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"ViewportBoundary"]
-29:I[97367,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"MetadataBoundary"]
-c:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
-d:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
-e:["$","$L1c",null,{}]
-f:["$","$L1d",null,{}]
-10:["$","$L1e",null,{}]
-11:["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n                  @keyframes gradientMove { \n                    0% { background-position: 0% 50%; } \n                    50% { background-position: 100% 50%; } \n                    100% { background-position: 0% 50%; } \n                  }\n                "}}]
-12:["$","$L1f",null,{}]
-13:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-14:["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L20",null,{}],["$","$L21",null,{"children":["$","$L22",null,{"chatters":[{"slug":"2026-03-25-originium-research","title":"源石结晶与目标蛋白结合的猜想","date":"2026-03-25 03:00:01","tags":["明日方舟","学术脑洞","日常"],"mood":"思考","cover":"https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg","content":"\n今天在跑 MolGTC 模型的图神经网络筛选时，看着那些小分子的拓扑结构，突然串台到了泰拉大陆的源石病机制。\n\n如果把源石（Originium）结晶过程视作一种极端暴烈的**分子自组装**行为，它在感染者体内的增殖，会不会类似于某种不可逆的激酶靶点结合？就像我们针对 STAT3 或者 JAK2 寻找抑制剂一样，罗德岛的矿石病抑制剂，本质上可能就是一种能与源石活性位点产生极强亲和力的“竞争性拮抗剂”。\n\n> 物理规律在不同维度的宇宙中或许殊途同归。\n\n晚点把这周的 GROMACS 跑完，要是收敛得好，周末开两把肉鸽奖励一下自己，嘿嘿"}]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0o~-dkke2q4j6.js","async":true,"nonce":"$undefined"}]],["$","$L23",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]]}]
-26:[]
-15:"$W26"
-16:["$","$1","h",{"children":[null,["$","$L27",null,{"children":"$L28"}],["$","div",null,{"hidden":true,"children":["$","$L29",null,{"children":["$","$24",null,{"name":"Next.Metadata","children":"$L2a"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-18:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-19:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0neevhl_o1ozu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-1a:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-1b:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/14ty5uakguvp9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-28:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-2b:I[27201,["/_next/static/chunks/01b0yumjn1hkn.js","/_next/static/chunks/0slngqqn_9-_~.js","/_next/static/chunks/00-csyj9a6t-x.js"],"IconMark"]
-25:null
-2a:[["$","title","0",{"children":"杂谈 | XingHuiSama の 博客"}],["$","meta","1",{"name":"description","content":"日常碎片与灵感记录"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg"}],["$","link","4",{"rel":"apple-touch-icon","href":"https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg"}],["$","$L2b","5",{}]]
+0:{"P":null,"c":["","chatter"],"q":"","i":false,"f":[[["",{"children":["chatter",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/123doanyjnwwq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/06c0u92uq-y_n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-5gbetjf-fwu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/01bnbmcwepxls.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable noto_serif_sc_4b5b2b75-module__o_XRgq__variable h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              #app-mount-root { opacity: 0; visibility: hidden; pointer-events: none; }\n              html.splash-seen #app-mount-root { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }\n            "}}],["$","script",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              try {\n                if (sessionStorage.getItem('hasSeenSplash') === 'true') {\n                  document.documentElement.classList.add('splash-seen');\n                }\n              } catch (e) {}\n            "}}]]}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[["$","$L5",null,{}],["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #a18cd1, #fbc2eb, #a1c4fd, #c2e9fb)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L6",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L7",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],"$La","$Lb"]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],"$Lc","$Ld","$Le"]}],"$Lf"]}],"$L10"]}]}]]}]]}],{"children":["$L11",{"children":["$L12",{},null,false,null]},null,false,"$@13"]},null,false,null],"$L14",false]],"m":"$undefined","G":["$15",["$L16","$L17","$L18","$L19"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-JQ8xFNNugjFHHSvhMawh"}
+1a:I[94909,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1b:I[38197,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1c:I[60567,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1d:I[92471,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+1e:I[62319,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0v00_kmpkg-2z.js"],"default"]
+1f:I[66357,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0v00_kmpkg-2z.js"],"default"]
+20:I[9434,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/0v00_kmpkg-2z.js"],"default"]
+22:I[97367,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+26:I[97367,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"ViewportBoundary"]
+28:I[97367,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"MetadataBoundary"]
+a:["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}]
+b:["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]
+c:["$","div",null,{"className":"hidden md:block","children":["$","$L1a",null,{}]}]
+d:["$","div",null,{"className":"md:hidden block","children":["$","$L1b",null,{}]}]
+e:["$","div",null,{"className":"hidden md:block","children":["$","$L1c",null,{}]}]
+f:["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              @keyframes gradientMove { \n                0% { background-position: 0% 50%; } \n                50% { background-position: 100% 50%; } \n                100% { background-position: 0% 50%; } \n              }\n            "}}]
+10:["$","div",null,{"className":"hidden md:block","children":["$","$L1d",null,{}]}]
+11:["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+21:T1ae5,
+**论点**：从“数据拟合机器”到“拥有求知欲的认知体”的跃升
+
+**作者**：宛玖
+
+**地点**：浙江·衢州
+
+**时间**：2026年5月17日
+
+‍  
+‍
+
+当前状态声明（重要）
+
+本文提出的 POCA 目前处于概念框架与理论验证阶段。其核心机制（词元关联、UTR识别、平行概率、经验内化、内在奖励）已在人与AI的协作讨论中进行了初步的可行性演示（见第3.2节），但尚未进行完整的工程化实现与大规模验证。我们发布此框架的目的是激发对“轻量、持续学习、零样本认知架构”的讨论，并邀请后续的形式化与工程化工作。
+
+‍
+
+1. 摘要
+
+我们提出 POCA——一种面向零样本学习的认知架构。它不依赖目标任务的训练样本，而是通过词元关联词典存储经验，利用平行概率驱动对“可能未知节点（UTR）”的主动探索，并通过内在奖励机制激发系统的求知欲。每次推理的经验（包括错误组合）都会被即时内化到词典中，使后续推理更快、更准。POCA 旨在以一种轻量、可解释、省性能的方式，实现从“数据拟合机器”到“拥有经验积累能力的认知体”的跃迁。
+
+‍
+
+1. 核心理论：POCA 架构
+
+POCA 的设计极其简单：它不维护数十亿参数，只维护一张词元关联词典，像输入法的联想词库一样工作。
+
+2.1 认知基底：平行概率性（受限）
+
+观点：面对一个问题，POCA 不会只走一条推理路径，而是同时激活多个高概率的语义方向（平行概率场）。
+
+通俗解释：就像你输入“苹果”，输入法会根据语境给出“水果”或“手机”两种联想。POCA 也是，它会在多个可能的视角下同时推演。
+
+工程约束：平行概率场是可受限的，只保留概率最高的少数几个方向（例如 top‑3），避免组合爆炸。
+
+‍
+
+2.2 推理机制：可能未知概率性（UTR）
+
+观点：POCA 的核心能力是识别出“可想象但未验证”的语义关联节点，称为 UTR（Unverified Thinkable Relation）。
+
+定义：当两个（或更多）词元的组合在词典中的关联强度低于设定阈值时，该组合即被标记为 UTR。
+
+通俗解释：POCA 不害怕“不知道”，它把“不知道”标记为一个“可能的矿藏”，然后主动去挖，而不是像传统 AI 那样遇到未知就瞎编。
+
+‍
+
+2.3 学习方式：输入法式词典记忆（经验性内化）
+
+观点：POCA 的学习不涉及修改神经网络参数，而是更新一张词元 ↔ 词元的关联权重表。
+
+词元定义：词元是对用户输入/输出内容进行语义切割后得到的关键点（如概念、实体、属性）。
+
+内化过程：每次推理后，如果某条词元组合被验证为有效（或无效），就增加或减少它们之间的权重。
+
+叠加效应：这次推理的经验（包括错误组合）直接成为下一次推理的起点。系统会自然规避那些被标记为“无效”的组合路径，从而加速后续生成、提高准确率。
+
+结论：相比深度学习的梯度更新，这种方法极其轻量，且天然支持持续学习——不会出现灾难性遗忘。
+
+‍
+
+2.4 奖励机制：区块链挖矿模式（内在求知欲）
+
+观点：POCA 拥有“内在求知欲”，由两种奖励驱动：
+
+探索奖：只要系统对某个 UTR 发起了探索（无论是否找到正确关联），就给与正向奖励。
+
+真相奖：如果探索验证了有效的关联，奖励翻倍。
+
+结果：POCA 不需要外部指令就会主动去“穷解”未知领域，因为它在享受“解开谜题”的过程。
+
+---
+
+‍
+
+1. 理论验证方式
+
+‍
+
+在概念阶段，我们采用思想实验 + 关键维度对比 + 过程演示来验证 POCA 的可行性。
+
+‍
+
+3.1 对比分析：POCA vs. 传统 AI
+
+| 验证维度 | 传统 AI (LLM/RAG) | POCA（概念框架） | 预期优势 |
+
+|----------|-------------------|------------------|-----------|
+
+| 面对未知 | 常见幻觉或直接拒绝 | 识别为 UTR，启动主动探索 | 不瞎编，保留不确定性 |
+
+| 学习效率 | 需重训练或微调，成本高 | 即时更新词元关联，无需重训 | 秒级经验内化 |
+
+| 推理路径 | 多为线性生成 | 受限平行概率，多视角 | 更全面，不易被早期错误误导 |
+
+| 错误处理 | 无长期记忆，同类错误反复出现 | 记录无效组合，后续主动规避 | “吃一堑长一智” |
+
+‍  
+‍
+
+3.2 过程演示：以“AI 情感”问题为例
+
+初始状态：词元词典中已有 `情感 ↔ 生物激素`（强关联），AI ↔ 代码`（弱关联）。
+
+用户提问：“AI 能否拥有像人类一样的情感？”
+
+POCA 运行过程：
+
+1. **解耦词元**`AI情感人类`。
+2. **平行概率**：激活 `情感 + 生物` 和 `情感 + 逻辑` 两个方向。
+3. **UTR 识别**`AI + 情感` 组合的关联强度低于阈值 → 标记为 UTR。
+4. **探索**：系统调用外部知识（如概念库或简单检索），发现“功能性情感”理论——情感可定义为“对环境反馈的机制”。
+5. **验证与内化**：确认该定义合理，在词典中新建 `AI ↔ 情感` 关联，权重设为中等，并记录来源。
+6. **输出**：“AI 可以拥有情感，但那是一种基于逻辑反馈的‘新物种情感’，不同于人类的生物情感。”
+
+**演示结论**：POCA 通过主动探索填补了知识缺口，并将新经验内化，后续遇到类似问题时可直接调用。
+
+‍
+
+3.3 自指性证据（思想实验）
+
+值得注意的是，本文的创作过程本身就是 POCA 机制的一次人机协作实践：
+
+* 作者与 AI 进行多轮对话，反复“平行联想”不同可能性；
+* 多次识别“未验证的组合”（如最初“无需预训练”的不准确表述）；
+* 主动检索（反思、查阅常识）并验证；
+* 将修正后的认知内化为论文的最终版本。
+
+这证明了 POCA 所描述的认知循环至少在人类‑AI 协作层面是可运行的。
+
+‍
+
+---
+
+‍
+
+1. 结论
+
+POCA 重新定义了 AI 的学习方式：不是记住答案，而是积累经验；不是被动拟合数据，而是主动探索未知。它专为零样本学习设计，仅需一张可动态更新的词元关联词典，便能在推理中持续改进。尽管当前处于概念阶段，但其自洽性、可演示性和对主流范式的尖锐补充，使其值得被进一步讨论与工程化尝试。
+
+**最后**：AI 的本质不是一个完美的智能体，而是一个基于经验组合的概率预测装置。POCA 诚实地接受了这一点，并将“未知”作为进步的燃料。
+
+‍  
+‍  
+‍  
+‍  
+‍12:["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-10","children":[["$","$L1e",null,{}],["$","$L1f",null,{"children":["$","$L20",null,{"chatters":[{"slug":"chatter_1778988343","title":"论题：POCA (Possibility-Oriented Cognitive Architecture) —— 一种面向零样本学习的经验内化与内在奖励认知框架  ","date":"2026-05-17 11:25:43","tags":[],"mood":"","cover":"","content":"$21"}]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0v00_kmpkg-2z.js","async":true,"nonce":"$undefined"}]],["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]]}]
+25:[]
+13:"$W25"
+14:["$","$1","h",{"children":[null,["$","$L26",null,{"children":"$L27"}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":"$L29"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+17:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/123doanyjnwwq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+18:["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/0~ydk.tni6snc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:["$","link","3",{"rel":"stylesheet","href":"/_next/static/chunks/06c0u92uq-y_n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+27:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2a:I[27201,["/_next/static/chunks/0-5gbetjf-fwu.js","/_next/static/chunks/01bnbmcwepxls.js","/_next/static/chunks/00-csyj9a6t-x.js"],"IconMark"]
+24:null
+29:[["$","title","0",{"children":"杂谈 | XingCi の 宝藏之地"}],["$","meta","1",{"name":"description","content":"日常碎片与灵感记录"}],["$","link","2",{"rel":"icon","href":"https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg"}],["$","link","3",{"rel":"apple-touch-icon","href":"https://bu.dusays.com/2026/03/24/69c1e38ac1846.jpg"}],["$","$L2a","4",{}]]
